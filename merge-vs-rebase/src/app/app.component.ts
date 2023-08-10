@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  public title = 'merge-vs-rebase';
+  public title: string = 'merge-vs-rebase';
 }
