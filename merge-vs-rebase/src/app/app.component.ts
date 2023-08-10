@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   public title: string = 'merge-vs-rebase';
+  public description: string = 'merge-vs-rebase';
 }
